@@ -1,12 +1,12 @@
 # che609
-#####to activate anaconda 
+##### to activate anaconda 
 anaconda3
 
-#####create a new conda environment for this course with python 3.7
+##### create a new conda environment for this course with python 3.7
 
 conda create -y -n che602 python=3.7
 
-#####to activate conda environment for this course
+##### to activate conda environment for this course
 conda activate che602
 
 ##### install additional packages to conda env(after you activate the env)
