@@ -1,5 +1,5 @@
-# che609(1)
-## Module 1 (4-8 May 2020)
+# che609(2)
+## Module 3 (18-22 May 2020)
 
 ##### Install and activate anaconda (step depends on user)
 	anaconda3
